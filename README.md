@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harzjunior
-- 👀 I’m interested in building beautiful things with <technology>
-- 🌱 I’m currently learning <Laravel>
-- 💞️ I’m looking to collaborate on <React> || <Next>
+- 👀 I’m interested in building beautiful things with technology
+- 🌱 I’m currently learning Laravel 
+- 💞️ I’m looking to collaborate on React || Next
 - 📫 How to reach me harunbah93@gmail.com
 
 <!---
