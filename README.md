@@ -7,7 +7,7 @@
 - 💞️ **Core Core Vectors:** C, Python, Go, Node.js backends, Unix systems engineering, and virtualization pipelines.
 - 🎓 **Academic Base:** M.Sc. in Information Systems & B.Sc. in Mathematics and Computer Science (EMU).
 - 🛠️ **Systems Training:** 12-month Advanced Software Engineering Track Graduate at ALX Africa.
-- 📫 **Corporate Gateway:** <a href="mailto:hello@nexgentech.dev">hello@nexgentech.dev</a> | Production Platform: <a href="www.nexgentech.dev" target="_blank">nexgentech.dev</a>
+- 📫 **Corporate Gateway:** <a href="mailto:hello@nexgentech.dev">hello@nexgentech.dev</a> | Production Platform: <a href="https://nexgentech.dev" target="_blank">nexgentech.dev</a>
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
